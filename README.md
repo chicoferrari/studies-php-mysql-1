@@ -1,0 +1,1 @@
+Estudos, exercícios e anotações sobre PHP e MySQL.
